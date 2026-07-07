@@ -1,5 +1,5 @@
 # Bank-management-system
- A Bank Management system built in python using Object-Oriented Programming(OOP)
+ A Bank Management system built in python using Object-Oriented Programming (OOP)
 
 ## Features
 - Create multiple bank accounts
@@ -10,7 +10,7 @@
 - View transaction history
 - Menu-driven interface
 
-## OOP Concepts used:
+## OOP Concepts Used
 - Classes and Objects
 - Encapsulation
 - Instance Attributes
