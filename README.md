@@ -9,12 +9,14 @@
 - Check account balance
 - View transaction history
 - Menu-driven interface
+  
 
 ## OOP Concepts Used
 - Classes and Objects
 - Encapsulation
 - Instance Attributes
+- getters and setters
 - Methods
-- Modules ('main.py','bank.py','accounts.py'
+- Modules ('main.py','bank.py','accounts.py')
 ## Technologies used
 - Python
